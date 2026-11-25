@@ -16,3 +16,5 @@ env/
 Thumbs.db
 SmartPulse_AI_Project_Report.pdf
 SmartPulse_AI_Presentation.pptx
+src/create_ppt.py
+src/pdf_report.py
